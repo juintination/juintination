@@ -7,6 +7,9 @@
 - 남이 아닌 과거의 나와 비교합니다.
 - 협력의 힘을 믿습니다.
 
+## 🌱 Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juintin)](https://solved.ac/juintin/)
+
 ## 🛠 Skills
 #### I use it often.
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,docker)](https://skillicons.dev)
