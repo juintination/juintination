@@ -6,9 +6,9 @@
 사용자 경험과 서비스 품질을 동시에 만족시켜야 한다는 책임감을 갖고, 오늘도 더 나은 시스템을 위해 끊임없이 머리를 굴리고 손을 움직이고 있습니다.
 
 ## 🔥 My values
-- 좋은 리더십만큼 좋은 팔로우십이 중요하다고 생각합니다.
-- 남이 아닌 과거의 나와 비교합니다.
-- 협력의 힘을 믿습니다.
+- 역할보다 중요한 것은 **태도**입니다.
+- 남이 아닌 **과거의 나**와 비교합니다.
+- **협력의 힘**을 믿습니다.
 
 ## 🌱 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juintin)](https://solved.ac/juintin/)
