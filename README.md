@@ -15,7 +15,7 @@
 
 ## 🛠 Skills
 #### I use it often.
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,redis,kafka)](https://skillicons.dev)
 
 #### I've used it before.
-[![My Skills](https://skillicons.dev/icons?i=c,php,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,php,nodejs,react,express,fastapi)](https://skillicons.dev)
