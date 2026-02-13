@@ -26,7 +26,7 @@ k6 부하 테스트 결과 p99 응답 시간이 약 32.3%, 평균 응답 시간�
 
 ## 🛠 Skills
 #### I use it often.
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,redis,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,aws,docker,redis,kafka)](https://skillicons.dev)
 
 #### I've used it before.
 [![My Skills](https://skillicons.dev/icons?i=c,php,nodejs,react,express,fastapi)](https://skillicons.dev)
